@@ -1,0 +1,19 @@
+.container-menu-title{
+  color: #e1edb9;
+}
+
+.container-menu-title > h1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.container-menu-title > hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
